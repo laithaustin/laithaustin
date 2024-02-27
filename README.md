@@ -1,4 +1,4 @@
-### exploring the world of systems and ML 👋
+### exploring the world of systems and ML 🤖
 
 <!--
 **laithaustin/laithaustin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
